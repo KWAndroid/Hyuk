@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FloClone</string>
+
+    <string name="home_icon_text">홈</string>
+    <string name="look_icon_text">홈</string>
+    <string name="search_icon_text">홈</string>
+    <string name="locker_icon_text">홈</string>
 </resources>
